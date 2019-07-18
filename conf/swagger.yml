@@ -1,0 +1,8 @@
+  swagger: "2.0"
+  info: 
+    title: Exemplo API com Scala Play"
+    description: "Learning to Fly"
+  consumes:
+    - application/json
+  produces: 
+    - application/json
